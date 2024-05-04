@@ -4,7 +4,7 @@ import vue from "@vitejs/plugin-vue";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: "/pairwise-comparator/",
+  base: "/vite-vue-template/",
   resolve: {
     alias: {
       src: "/src",
